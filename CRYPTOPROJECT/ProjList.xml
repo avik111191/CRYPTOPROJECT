@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectList>
+  <project>
+    <Name>Name 1</Name>
+    <OptionCode>1</OptionCode>
+    <ReadMeFile>\\Name1\ReadMe.txt</ReadMeFile>
+    <Therory>\\Name1\Theory.html</Therory>
+  </project>
+ <project>
+    <Name>Name 2</Name>
+    <OptionCode>2</OptionCode>
+    <ReadMeFile>\\Name2\ReadMe.txt</ReadMeFile>
+    <Therory>\\Name2\Theory.html</Therory>
+  </project>
+</ProjectList>
